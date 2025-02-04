@@ -1,0 +1,7 @@
+1) The program's parent process is the shell; in my case, the bash shell. For others, it may be tsch or zcsh.
+2) The process's parent process is typically the terminal emulator, console, or an intermediate process manager.
+3) That process's parent process is usually the window or session manager.
+
+In my case, I can view the entire chain of processes using the command: pstree -s $$
+
+> systemd───init-systemd(Ub───SessionLeader───Relay(311)───bash───pstree 

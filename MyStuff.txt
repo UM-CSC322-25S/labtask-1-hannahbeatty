@@ -1,0 +1,6 @@
+User ID: 1000
+Primary Group ID: 1000
+All groups: hannahbanana adm dialout cdrom floppy sudo audio dip video plugdev users netdev
+Shell Path: /bin/bash
+Home Directory: /home/hannahbanana
+PATH Variable: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/WindowsApps/MicrosoftCorporationII.WindowsSubsystemForLinux_2.3.26.0_x64__8wekyb3d8bbwe:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/:/mnt/c/Program Files/Vim/vim91:/mnt/c/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.41.34120/bin/Hostx64/x64:/mnt/c/Program Files/nodejs/:/mnt/c/Users/hanna/AppData/Local/Programs/Python/Python312/Scripts/:/mnt/c/Users/hanna/AppData/Local/Programs/Python/Python312/:/mnt/c/Users/hanna/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/hanna/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/hanna/AppData/Roaming/npm:/snap/bin
